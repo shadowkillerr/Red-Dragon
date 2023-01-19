@@ -11,14 +11,42 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `🍁. *ℍ𝕚 𝕀 𝔸𝕄 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎* 
+
+🍁. *𝕊ℍ𝔻𝕆𝕎 𝕂𝕀𝕃𝕃𝔼ℝ 𝕎ℍ𝔸𝕋𝕊 𝔸ℙℙ 𝔹𝕆𝕋*
+
+🍁. *𝕐𝕆𝕌 ℂ𝔸ℕ 𝔻𝕆𝕎ℕ𝕃𝕆𝔸𝔻 𝔸ℕ𝕐 𝕊𝕆ℕ𝔾𝕊,* 
+
+🍁. *𝔻𝕆 𝕐𝕆𝕌 𝕎𝔸ℕ𝕋 𝔸 𝔻𝕆𝕎ℕ𝕃𝕆𝔸𝔻 𝔸ℕ𝕐 𝕊𝕆ℕ𝔾𝕊...🎷𝕐𝕆𝕌 𝕋𝕐ℙ𝔼 (. 𝕤𝕠𝕟𝕘 𝔻𝕪𝕟𝕒𝕞𝕚𝕥𝕖.)*
+
+🍁. *𝕐𝕆𝕌 ℂ𝔸ℕ 𝔻𝕆𝕎ℕ𝕃𝕆𝔸𝔻 𝔸ℕ𝕐 𝕍𝕀𝔻𝔼𝕆𝕊,*
+
+🍁. *𝔻𝕆 𝕐𝕆𝕌 𝕎𝔸ℕ𝕋 𝔸 𝔻𝕆𝕎ℕ𝕃𝕆𝔸𝔻 𝔸ℕ𝕐 𝕍𝕀𝔻𝔼𝕆𝕊...📹𝕐𝕆𝕌 𝕋𝕐ℙ𝔼 (. 𝕪𝕥𝕔 ℍ𝕠𝕨 𝕥𝕠 𝕞𝕒𝕜𝕖 𝕒 𝕓𝕠𝕥.)*
+
+🍁. *ℝ𝕌𝕃𝔼𝕊....*
+
+🍁. *𝕐𝕆𝕌 ℂ𝔸ℕ'𝕋 𝕊ℙ𝔼𝔸𝕂 𝔹𝔸𝔻 𝕎𝕆ℝ𝔻𝕊.*
+
+🍁. *ℝ𝔼𝕊ℙ𝔼ℂ𝕋 𝔸𝕃𝕃 𝔸𝔻𝕄𝕀ℕ𝕊*
+
+🍁. *𝔻𝕆ℕ'𝕋 𝔾𝕆 𝕋𝕆 𝕋ℍ𝔼 𝔾𝕀ℝ𝕃𝕊 𝕀ℕ𝔹𝕆𝕏𝔼𝕊*
+
+🍁.*𝔸ℕ𝔻 𝕐𝕆𝕌 ℂ𝔸ℕ 𝔻𝕆𝕎ℕ𝕃𝕆𝔸𝔻 𝔸ℕ𝕐 𝕀𝕄𝔸𝔾𝔼𝕊 𝔸ℕ𝔻 𝕐𝕆𝕌 ℂ𝔸ℕ 𝕄𝔸𝕂𝔼 𝕃𝕆𝔾𝕆.*
+
+🍁.*𝕆𝕎ℕ𝔼ℝ : 𝔻𝔸ℍ𝔸𝕄 ℙ𝔸ℕ𝕊𝕀𝕃𝕌.*
+
+🍁. *𝔹𝕆𝕋 ℕ𝔸𝕄𝔼 : 𝕊ℍ𝔸𝔻𝕆𝕎 𝕂𝕀𝕃𝕃𝔼ℝ.*
+
+🍁. *𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔸𝕃𝕃 𝔽𝕆ℝ 𝕄𝔼𝕄𝔹𝔼ℝ𝕊.🙏🏻*
+
+*꧁❤•༆$𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 ➳ᴹᴿ✿࿐* `
+ //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -29,34 +57,34 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94717069879'] // owner number
+global.ownername = "៚𝐃𝐀𝐇𝐀𝐌 𝐏𝐀𝐍𝐒𝐈𝐋𝐔 𓀃" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: shadowkillerr" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+94717069879']
+global.ownertag = '+94717069879' //your tag number
+global.botname = '𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃' //ur bot name
+global.packname = "𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" // sticker packname
+global.author = "𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" // sticker author
+global.dragonemoji = '😁' // Menu emoji
+global.footer = '𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['94717069879'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
