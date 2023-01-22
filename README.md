@@ -32,6 +32,8 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 ## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
+## 🙂➾ [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/2d3gF2?referralCode=JfBkak)
+
 
 <p align="center">
 
